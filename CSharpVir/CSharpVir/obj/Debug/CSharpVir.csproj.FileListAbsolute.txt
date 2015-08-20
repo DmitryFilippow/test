@@ -1,0 +1,7 @@
+E:\DEV\C#\CSharpVir\CSharpVir\bin\Debug\CSharpVir.exe
+E:\DEV\C#\CSharpVir\CSharpVir\bin\Debug\CSharpVir.pdb
+E:\DEV\C#\CSharpVir\CSharpVir\obj\Debug\CSharpVir.Form1.resources
+E:\DEV\C#\CSharpVir\CSharpVir\obj\Debug\CSharpVir.Properties.Resources.resources
+E:\DEV\C#\CSharpVir\CSharpVir\obj\Debug\CSharpVir.csproj.GenerateResource.Cache
+E:\DEV\C#\CSharpVir\CSharpVir\obj\Debug\CSharpVir.exe
+E:\DEV\C#\CSharpVir\CSharpVir\obj\Debug\CSharpVir.pdb
